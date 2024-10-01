@@ -21,6 +21,6 @@ This project simulates an AI assistant to determine the best commuting option ba
    git clone https://github.com/florian-yves-paul-dubois/AI-Decision-Assistant.git
    cd AI-Decision-Assistant
 2. run the code 
- ```bash
-  python commute_decision.py
+   ```bash
+    python commute_decision.py
 
