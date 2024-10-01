@@ -20,7 +20,7 @@ This project simulates an AI assistant to determine the best commuting option ba
    ```bash
    git clone https://github.com/florian-yves-paul-dubois/AI-Decision-Assistant.git
    cd AI-Decision-Assistant
-run the code 
-  ```bash
+2. run the code 
+ ```bash
   python commute_decision.py
 
